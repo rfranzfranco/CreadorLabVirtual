@@ -1,6 +1,6 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">CreadorLabVirtual</a>
+        <a class="navbar-brand" href="">Creador Lab Virtual - FNI</a>
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -11,20 +11,40 @@
     <nav class="flex-column">
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Guía de uso
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
+            <NavLink class="nav-link">
+                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Nuevo
             </NavLink>
         </div>
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
+            <NavLink class="nav-link">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Abrir
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link">
+                <span class="bi bi-floppy-fill-nav-menu" aria-hidden="true"></span> Guardar
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Guardar como
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Exportar
             </NavLink>
         </div>
     </nav>
+    <div class="nav-item px-3">
+        <NavLink class="nav-link">
+            <span class="bi bi-door-open-fill-nav-menu" aria-hidden="true"></span> Salir
+        </NavLink>
+    </div>
 </div>
 
 @code {

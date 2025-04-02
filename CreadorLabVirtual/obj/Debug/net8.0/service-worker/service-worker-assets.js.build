@@ -1,16 +1,16 @@
 self.assetsManifest = {
-  "version": "/pCb/BFx",
+  "version": "BLvklcix",
   "assets": [
     {
-      "hash": "sha256-jCbdKdwXzC3B4DDcQW/6NpRiKnjjGnEf/TMorAjubRQ=",
+      "hash": "sha256-l8egy+BhQ9+BpQ6f0EVq34JuvyjTaOtxZZAXLUtMcDQ=",
       "url": "CreadorLabVirtual.styles.css"
     },
     {
-      "hash": "sha256-B4IyOin8J8dkTd/rFL+TtsWMb5iM6P17XAGlPTtRpio=",
+      "hash": "sha256-fi3vtyMvNMQY9xGUzLOebOk2ROpU1qRCp5Ou7DExGhM=",
       "url": "_framework/CreadorLabVirtual.pdb"
     },
     {
-      "hash": "sha256-3K7QBWcKBIMhkgsiO+zmrsIFvWOadulRo24yDPafTtk=",
+      "hash": "sha256-s5P8xbOiIKLqT1tBezbDzKjeRPeQSOQR5gZ8OcuprwM=",
       "url": "_framework/CreadorLabVirtual.wasm"
     },
     {
@@ -770,7 +770,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-50SN2gyJEI0ZKYe/hq9TZe/fVUIZX2HGq+p67iAvKYo=",
+      "hash": "sha256-2DCHrYgM+jZRycG3zcy+0mtf3mil234+wEbNmWtBsqs=",
       "url": "_framework/blazor.boot.json"
     },
     {

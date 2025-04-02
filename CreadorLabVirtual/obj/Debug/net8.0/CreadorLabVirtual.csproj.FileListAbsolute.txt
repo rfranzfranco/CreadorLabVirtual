@@ -1023,9 +1023,6 @@ D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\D
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\97zud27f6z-tptq2av103.gz
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\y9kkakqukt-lfu7j35m59.gz
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\s0g35g7g51-oyz0vx2fzb.gz
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\qjwvqtil4u-0v8w6hthoz.gz
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\b2ilsj1re8-fivimb77r1.gz
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\xk23k7vksl-n01n8ylr5x.gz
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\staticwebassets.build.json
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\staticwebassets.development.json
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1041,3 +1038,7 @@ D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\D
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\refint\CreadorLabVirtual.dll
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\CreadorLabVirtual.pdb
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\ref\CreadorLabVirtual.dll
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\CreadorLabVirtual.sourcelink.json
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\qjwvqtil4u-hn4nxxh8w9.gz
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\b2ilsj1re8-qddjrqo9v8.gz
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\xk23k7vksl-srzr30abr2.gz

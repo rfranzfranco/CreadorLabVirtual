@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreadorLabVirtual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bc8115d9f8643a633e9b06788293683332ec32")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreadorLabVirtual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreadorLabVirtual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
