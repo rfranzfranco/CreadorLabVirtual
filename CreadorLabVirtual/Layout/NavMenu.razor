@@ -8,6 +8,11 @@
 </div>
 
 <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <div class="nav-back-button">
+        <NavLink class="nav-link" Match="NavLinkMatch.All">
+            <span class="bi bi-arrow-left-nav-menu" aria-hidden="true"></span>
+        </NavLink>
+    </div>
     <nav class="flex-column">
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
@@ -16,29 +21,29 @@
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Nuevo
+                <span class="bi bi-file-earmark-plus-fill-nav-menu" aria-hidden="true"></span> Nuevo
             </NavLink>
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Abrir
+                <span class="bi bi-folder2-open-nav-menu" aria-hidden="true"></span> Abrir
             </NavLink>
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link">
-                <span class="bi bi-floppy-fill-nav-menu" aria-hidden="true"></span> Guardar
+                <span class="bi bi-floppy-nav-menu" aria-hidden="true"></span> Guardar
             </NavLink>
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Guardar como
+                <span class="bi bi-floppy-fill-nav-menu" aria-hidden="true"></span> Guardar como
             </NavLink>
         </div>
         <div class="nav-item px-3">
             <NavLink class="nav-link">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Exportar
+                <span class="bi bi-download-nav-menu" aria-hidden="true"></span> Exportar
             </NavLink>
-        </div>
+        </div>        
     </nav>
     <div class="nav-item px-3">
         <NavLink class="nav-link">
@@ -46,7 +51,6 @@
         </NavLink>
     </div>
 </div>
-
 @code {
     private bool collapseNavMenu = true;
 
