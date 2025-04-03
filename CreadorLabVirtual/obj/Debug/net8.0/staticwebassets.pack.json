@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\js\\FileInterop.js",
+      "PackagePath": "staticwebassets\\js\\FileInterop.js"
+    },
+    {
       "Id": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },

@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>sfu6x2u0o1</Fingerprint>
-      <Integrity>aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=</Integrity>
+      <Fingerprint>3n127vpmkf</Fingerprint>
+      <Integrity>z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CreadorLabVirtual.styles.css'))</OriginalItemSpec>
@@ -138,11 +138,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5fnxxioiiy</Fingerprint>
-      <Integrity>0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis=</Integrity>
+      <Fingerprint>mznf5pl4qs</Fingerprint>
+      <Integrity>MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\FileInterop.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CreadorLabVirtual</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>js/FileInterop.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6tuf1mk95r</Fingerprint>
+      <Integrity>Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\FileInterop.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\manifest.webmanifest'))">
       <SourceType>Package</SourceType>

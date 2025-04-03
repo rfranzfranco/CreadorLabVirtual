@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hw+D6Q0mQW2te1+GFzLOtl0bhTKBb6nTH27WgFYbgSs=",
+  "Hash": "Xa6gLh80wQXWF5048KWdrNzo4haJk9Ym9t1pCeqXgB0=",
   "Source": "CreadorLabVirtual",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "juev9qphbd",
-      "Integrity": "633biJlf2yNZBX+uG+zGB3IJdlbkBx/78UiJlMjednk=",
+      "Fingerprint": "qlspbnp0fw",
+      "Integrity": "DpSIwMzjfLl0B3Z7MIrm70Ns16j0kIQa7JJbos4YOxs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "etldqkkd58",
-      "Integrity": "slmUptqLGl5j/4/+HSwgIluA2lk39htFmdCFS3aiyVA=",
+      "Fingerprint": "wyq0b7d4fl",
+      "Integrity": "iL90XisW825Af82Cw62ylJFMtkmsW3+hIE/g/ixdhY0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\CreadorLabVirtual.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "i2idwd6ose",
-      "Integrity": "Ro/zXY/SciiLnbJG3dUpvX8NzLqMr9tiS/xMD5GHiF8=",
+      "Fingerprint": "tp3nq41pb4",
+      "Integrity": "kawDxW2tf2tt9zJuj/YZGUuMrFBLvI1SkvhVkGhIfas=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\webcil\\CreadorLabVirtual.wasm"
@@ -5687,7 +5687,7 @@
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm"
     },
     {
-      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-etldqkkd58.gz",
+      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-wyq0b7d4fl.gz",
       "SourceId": "CreadorLabVirtual",
       "SourceType": "Computed",
       "ContentRoot": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\",
@@ -5701,8 +5701,8 @@
       "RelatedAsset": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CreadorLabVirtual.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f2nsthelde",
-      "Integrity": "OVu8Nd0DVZiQEINMX8+0n1+3ODGbCMQEHe5TpiXhaxs=",
+      "Fingerprint": "dz5dr5vl1z",
+      "Integrity": "ib7tBQmSVZkpmgaVG/0EwPXBpP1br9vA7CJws3VjBiE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CreadorLabVirtual.pdb"
@@ -7598,7 +7598,7 @@
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Core.wasm"
     },
     {
-      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-i2idwd6ose.gz",
+      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-tp3nq41pb4.gz",
       "SourceId": "CreadorLabVirtual",
       "SourceType": "Computed",
       "ContentRoot": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\",
@@ -7612,8 +7612,8 @@
       "RelatedAsset": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CreadorLabVirtual.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vtugoonqs2",
-      "Integrity": "7Zf8Lys7zYvWlS4kIrfJ5IwL7EdSgRH/LzcMqo7Ty9Y=",
+      "Fingerprint": "28dz5rfxjy",
+      "Integrity": "ss7bjhyld3xFE48/mxaolYKBHPesQATfAYuBnPdKZaY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\CreadorLabVirtual.wasm"
@@ -8417,7 +8417,7 @@
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
     },
     {
-      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-juev9qphbd.gz",
+      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-qlspbnp0fw.gz",
       "SourceId": "CreadorLabVirtual",
       "SourceType": "Computed",
       "ContentRoot": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\",
@@ -8431,8 +8431,8 @@
       "RelatedAsset": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fz6qst0fxd",
-      "Integrity": "JWrgYGhoVxOdRCIGWNdo0Fk2GbrTnXPbo8fjX3ZLsWA=",
+      "Fingerprint": "b8zmf2ce30",
+      "Integrity": "21IVT4lR3JEdW0zZI8Enbx2Gd7neZweGlxLRcl5r0h4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "sfu6x2u0o1",
-      "Integrity": "aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=",
+      "Fingerprint": "3n127vpmkf",
+      "Integrity": "z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CreadorLabVirtual.styles.css"
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "sfu6x2u0o1",
-      "Integrity": "aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=",
+      "Fingerprint": "3n127vpmkf",
+      "Integrity": "z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CreadorLabVirtual.bundle.scp.css"
@@ -8683,8 +8683,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "jus2ajsx3f",
-      "Integrity": "i3SXogECDhIoDPqLjwLIzT8c0r/vOGT13Nct95HJhDs=",
+      "Fingerprint": "hgqysuaraf",
+      "Integrity": "jxEdOultdXKjdikoPi3wx9UWZxwlniEuHbK9xA/6gh8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "bu8d19ul4a",
-      "Integrity": "A/M941u3A3UxabLefwr8fxiK+6rWOhHub7AwiETR52U=",
+      "Fingerprint": "vag4sf2784",
+      "Integrity": "ebzlCYEIK/iHNN16IOFNR2r+rCKCw8ZwX98UKKLGNnQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\service-worker\\service-worker-assets.js.build"
@@ -8851,11 +8851,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5fnxxioiiy",
-      "Integrity": "0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis=",
+      "Fingerprint": "mznf5pl4qs",
+      "Integrity": "MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\js\\FileInterop.js",
+      "SourceId": "CreadorLabVirtual",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/FileInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6tuf1mk95r",
+      "Integrity": "Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FileInterop.js"
     },
     {
       "Identity": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\manifest.webmanifest",
@@ -8920,11 +8941,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"633biJlf2yNZBX+uG+zGB3IJdlbkBx/78UiJlMjednk=\""
+          "Value": "\"DpSIwMzjfLl0B3Z7MIrm70Ns16j0kIQa7JJbos4YOxs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:58:25 GMT"
+          "Value": "Thu, 03 Apr 2025 03:20:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8934,13 +8955,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-633biJlf2yNZBX+uG+zGB3IJdlbkBx/78UiJlMjednk="
+          "Value": "sha256-DpSIwMzjfLl0B3Z7MIrm70Ns16j0kIQa7JJbos4YOxs="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-juev9qphbd.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-qlspbnp0fw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8959,11 +8980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JWrgYGhoVxOdRCIGWNdo0Fk2GbrTnXPbo8fjX3ZLsWA=\""
+          "Value": "\"21IVT4lR3JEdW0zZI8Enbx2Gd7neZweGlxLRcl5r0h4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:13 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8983,19 +9004,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"633biJlf2yNZBX+uG+zGB3IJdlbkBx/78UiJlMjednk=\""
+          "Value": "W/\"DpSIwMzjfLl0B3Z7MIrm70Ns16j0kIQa7JJbos4YOxs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-633biJlf2yNZBX+uG+zGB3IJdlbkBx/78UiJlMjednk="
+          "Value": "sha256-DpSIwMzjfLl0B3Z7MIrm70Ns16j0kIQa7JJbos4YOxs="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-juev9qphbd.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\xk23k7vksl-qlspbnp0fw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9012,11 +9033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JWrgYGhoVxOdRCIGWNdo0Fk2GbrTnXPbo8fjX3ZLsWA=\""
+          "Value": "\"21IVT4lR3JEdW0zZI8Enbx2Gd7neZweGlxLRcl5r0h4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:13 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9034,7 +9055,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JWrgYGhoVxOdRCIGWNdo0Fk2GbrTnXPbo8fjX3ZLsWA="
+          "Value": "sha256-21IVT4lR3JEdW0zZI8Enbx2Gd7neZweGlxLRcl5r0h4="
         }
       ]
     },
@@ -9186,7 +9207,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23980"
+          "Value": "24912"
         },
         {
           "Name": "Content-Type",
@@ -9194,11 +9215,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"slmUptqLGl5j/4/+HSwgIluA2lk39htFmdCFS3aiyVA=\""
+          "Value": "\"iL90XisW825Af82Cw62ylJFMtkmsW3+hIE/g/ixdhY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:58:25 GMT"
+          "Value": "Thu, 03 Apr 2025 03:20:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9208,18 +9229,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-slmUptqLGl5j/4/+HSwgIluA2lk39htFmdCFS3aiyVA="
+          "Value": "sha256-iL90XisW825Af82Cw62ylJFMtkmsW3+hIE/g/ixdhY0="
         }
       ]
     },
     {
       "Route": "_framework/CreadorLabVirtual.pdb",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-etldqkkd58.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-wyq0b7d4fl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057623603"
+          "Quality": "0.000055358725"
         }
       ],
       "ResponseHeaders": [
@@ -9229,15 +9250,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17353"
+          "Value": "18063"
         },
         {
           "Name": "ETag",
-          "Value": "\"OVu8Nd0DVZiQEINMX8+0n1+3ODGbCMQEHe5TpiXhaxs=\""
+          "Value": "\"ib7tBQmSVZkpmgaVG/0EwPXBpP1br9vA7CJws3VjBiE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:12 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9257,19 +9278,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"slmUptqLGl5j/4/+HSwgIluA2lk39htFmdCFS3aiyVA=\""
+          "Value": "W/\"iL90XisW825Af82Cw62ylJFMtkmsW3+hIE/g/ixdhY0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-slmUptqLGl5j/4/+HSwgIluA2lk39htFmdCFS3aiyVA="
+          "Value": "sha256-iL90XisW825Af82Cw62ylJFMtkmsW3+hIE/g/ixdhY0="
         }
       ]
     },
     {
       "Route": "_framework/CreadorLabVirtual.pdb.gz",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-etldqkkd58.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\b2ilsj1re8-wyq0b7d4fl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9278,7 +9299,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17353"
+          "Value": "18063"
         },
         {
           "Name": "Content-Type",
@@ -9286,11 +9307,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OVu8Nd0DVZiQEINMX8+0n1+3ODGbCMQEHe5TpiXhaxs=\""
+          "Value": "\"ib7tBQmSVZkpmgaVG/0EwPXBpP1br9vA7CJws3VjBiE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:12 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9308,7 +9329,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OVu8Nd0DVZiQEINMX8+0n1+3ODGbCMQEHe5TpiXhaxs="
+          "Value": "sha256-ib7tBQmSVZkpmgaVG/0EwPXBpP1br9vA7CJws3VjBiE="
         }
       ]
     },
@@ -9323,7 +9344,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20245"
+          "Value": "24853"
         },
         {
           "Name": "Content-Type",
@@ -9331,11 +9352,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ro/zXY/SciiLnbJG3dUpvX8NzLqMr9tiS/xMD5GHiF8=\""
+          "Value": "\"kawDxW2tf2tt9zJuj/YZGUuMrFBLvI1SkvhVkGhIfas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:58:25 GMT"
+          "Value": "Thu, 03 Apr 2025 03:20:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9345,18 +9366,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ro/zXY/SciiLnbJG3dUpvX8NzLqMr9tiS/xMD5GHiF8="
+          "Value": "sha256-kawDxW2tf2tt9zJuj/YZGUuMrFBLvI1SkvhVkGhIfas="
         }
       ]
     },
     {
       "Route": "_framework/CreadorLabVirtual.wasm",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-i2idwd6ose.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-tp3nq41pb4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000126119309"
+          "Quality": "0.000098425197"
         }
       ],
       "ResponseHeaders": [
@@ -9366,15 +9387,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7928"
+          "Value": "10159"
         },
         {
           "Name": "ETag",
-          "Value": "\"7Zf8Lys7zYvWlS4kIrfJ5IwL7EdSgRH/LzcMqo7Ty9Y=\""
+          "Value": "\"ss7bjhyld3xFE48/mxaolYKBHPesQATfAYuBnPdKZaY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:12 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9394,19 +9415,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ro/zXY/SciiLnbJG3dUpvX8NzLqMr9tiS/xMD5GHiF8=\""
+          "Value": "W/\"kawDxW2tf2tt9zJuj/YZGUuMrFBLvI1SkvhVkGhIfas=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ro/zXY/SciiLnbJG3dUpvX8NzLqMr9tiS/xMD5GHiF8="
+          "Value": "sha256-kawDxW2tf2tt9zJuj/YZGUuMrFBLvI1SkvhVkGhIfas="
         }
       ]
     },
     {
       "Route": "_framework/CreadorLabVirtual.wasm.gz",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-i2idwd6ose.gz",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\compressed\\qjwvqtil4u-tp3nq41pb4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9415,7 +9436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7928"
+          "Value": "10159"
         },
         {
           "Name": "Content-Type",
@@ -9423,11 +9444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7Zf8Lys7zYvWlS4kIrfJ5IwL7EdSgRH/LzcMqo7Ty9Y=\""
+          "Value": "\"ss7bjhyld3xFE48/mxaolYKBHPesQATfAYuBnPdKZaY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:57:12 GMT"
+          "Value": "Thu, 03 Apr 2025 03:06:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9445,7 +9466,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7Zf8Lys7zYvWlS4kIrfJ5IwL7EdSgRH/LzcMqo7Ty9Y="
+          "Value": "sha256-ss7bjhyld3xFE48/mxaolYKBHPesQATfAYuBnPdKZaY="
         }
       ]
     },
@@ -36987,6 +37008,96 @@
       ]
     },
     {
+      "Route": "CreadorLabVirtual.3n127vpmkf.bundle.scp.css",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CreadorLabVirtual.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 02:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3n127vpmkf"
+        },
+        {
+          "Name": "label",
+          "Value": "CreadorLabVirtual.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE="
+        }
+      ]
+    },
+    {
+      "Route": "CreadorLabVirtual.3n127vpmkf.styles.css",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CreadorLabVirtual.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 02:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3n127vpmkf"
+        },
+        {
+          "Name": "label",
+          "Value": "CreadorLabVirtual.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE="
+        }
+      ]
+    },
+    {
       "Route": "CreadorLabVirtual.bundle.scp.css",
       "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CreadorLabVirtual.bundle.scp.css",
       "Selectors": [],
@@ -36997,7 +37108,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9798"
+          "Value": "9796"
         },
         {
           "Name": "Content-Type",
@@ -37005,11 +37116,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=\""
+          "Value": "\"z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:52:34 GMT"
+          "Value": "Thu, 03 Apr 2025 02:45:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37019,97 +37130,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM="
-        }
-      ]
-    },
-    {
-      "Route": "CreadorLabVirtual.sfu6x2u0o1.bundle.scp.css",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CreadorLabVirtual.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9798"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:52:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sfu6x2u0o1"
-        },
-        {
-          "Name": "label",
-          "Value": "CreadorLabVirtual.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM="
-        }
-      ]
-    },
-    {
-      "Route": "CreadorLabVirtual.sfu6x2u0o1.styles.css",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CreadorLabVirtual.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9798"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:52:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sfu6x2u0o1"
-        },
-        {
-          "Name": "label",
-          "Value": "CreadorLabVirtual.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM="
+          "Value": "sha256-z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE="
         }
       ]
     },
@@ -37124,7 +37145,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9798"
+          "Value": "9796"
         },
         {
           "Name": "Content-Type",
@@ -37132,11 +37153,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM=\""
+          "Value": "\"z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:52:34 GMT"
+          "Value": "Thu, 03 Apr 2025 02:45:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37146,7 +37167,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aDe4yUbCATq64QTlsceallhJcDE73eKfuuoQrZjWvwM="
+          "Value": "sha256-z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE="
         }
       ]
     },
@@ -37643,51 +37664,6 @@
       ]
     },
     {
-      "Route": "index.5fnxxioiiy.html",
-      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1253"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 22:34:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5fnxxioiiy"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis="
-        }
-      ]
-    },
-    {
       "Route": "index.html",
       "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\index.html",
       "Selectors": [],
@@ -37698,7 +37674,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1253"
+          "Value": "1373"
         },
         {
           "Name": "Content-Type",
@@ -37706,11 +37682,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis=\""
+          "Value": "\"MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 22:34:51 GMT"
+          "Value": "Thu, 03 Apr 2025 02:32:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37720,7 +37696,134 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0T1JSsVcVUpSAoqJOIdrIDeEb0BUlZlQNNZ7B62Uhis="
+          "Value": "sha256-MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME="
+        }
+      ]
+    },
+    {
+      "Route": "index.mznf5pl4qs.html",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 02:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mznf5pl4qs"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME="
+        }
+      ]
+    },
+    {
+      "Route": "js/FileInterop.6tuf1mk95r.js",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\js\\FileInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:06:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6tuf1mk95r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/FileInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc="
+        }
+      ]
+    },
+    {
+      "Route": "js/FileInterop.js",
+      "AssetFile": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\wwwroot\\js\\FileInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 03:06:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc="
         }
       ]
     },
@@ -37907,7 +38010,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i3SXogECDhIoDPqLjwLIzT8c0r/vOGT13Nct95HJhDs=\""
+          "Value": "\"jxEdOultdXKjdikoPi3wx9UWZxwlniEuHbK9xA/6gh8=\""
         },
         {
           "Name": "Last-Modified",
@@ -37921,7 +38024,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i3SXogECDhIoDPqLjwLIzT8c0r/vOGT13Nct95HJhDs="
+          "Value": "sha256-jxEdOultdXKjdikoPi3wx9UWZxwlniEuHbK9xA/6gh8="
         }
       ]
     },
@@ -37936,7 +38039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30616"
+          "Value": "30735"
         },
         {
           "Name": "Content-Type",
@@ -37944,11 +38047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A/M941u3A3UxabLefwr8fxiK+6rWOhHub7AwiETR52U=\""
+          "Value": "\"ebzlCYEIK/iHNN16IOFNR2r+rCKCw8ZwX98UKKLGNnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 02:58:25 GMT"
+          "Value": "Thu, 03 Apr 2025 03:20:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37958,7 +38061,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A/M941u3A3UxabLefwr8fxiK+6rWOhHub7AwiETR52U="
+          "Value": "sha256-ebzlCYEIK/iHNN16IOFNR2r+rCKCw8ZwX98UKKLGNnQ="
         }
       ]
     }
