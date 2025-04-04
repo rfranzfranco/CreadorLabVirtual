@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>pjeb0k7msn</Fingerprint>
-      <Integrity>myFIslG/4NzxESI7KXgvvnl1sswC09rE1hHfQxoRpYk=</Integrity>
+      <Fingerprint>63j8mkdzb3</Fingerprint>
+      <Integrity>okgcQgOQcW0IFQeoSVVgGVtAenzjue69DR5PtLqxh0A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CreadorLabVirtual.styles.css'))</OriginalItemSpec>

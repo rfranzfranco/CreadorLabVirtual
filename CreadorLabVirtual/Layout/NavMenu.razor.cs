@@ -13,6 +13,9 @@ namespace CreadorLabVirtual.Layout
             var result = await JS.InvokeAsync<bool>("mostrarConfirmacionPersonalizada","Cerrar aplicación","¿Estás seguro de que deseas salir?","Sí, salir","Cancelar");
             if (result)
             {
+                await localStorage.RemoveItemAsync("BotonesHabilitados");
+                botonesHabilitados = false;
+                NavigationManager.NavigateTo("/");
                 await JS.InvokeVoidAsync("window.close");
             }
         }
@@ -36,6 +39,10 @@ namespace CreadorLabVirtual.Layout
         private async Task GuardarComo()
         {
             var resultado = await JS.InvokeAsync<dynamic>("mostrarDialogoGuardar", "");
+        }
+        private async Task ExportarDoc()
+        {
+            var resultado = await JS.InvokeAsync<dynamic>("mostrarDialogoGuardar", "miArchivo.fni");
         }
     }
 }
