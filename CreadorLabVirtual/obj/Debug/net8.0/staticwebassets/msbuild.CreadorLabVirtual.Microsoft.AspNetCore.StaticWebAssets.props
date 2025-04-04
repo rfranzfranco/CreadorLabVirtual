@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>3n127vpmkf</Fingerprint>
-      <Integrity>z8dggsgE/kZGH7nkH3RqnPN+pShCyxIv/JMlx6x8sQE=</Integrity>
+      <Fingerprint>pjeb0k7msn</Fingerprint>
+      <Integrity>myFIslG/4NzxESI7KXgvvnl1sswC09rE1hHfQxoRpYk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CreadorLabVirtual.styles.css'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mznf5pl4qs</Fingerprint>
-      <Integrity>MqDE45azXa8oRsaAr0/uMxARWysZ/TmfavOZXE76eME=</Integrity>
+      <Fingerprint>f5y1l573bi</Fingerprint>
+      <Integrity>I/w3mC8FrK4pVE8DtGJyP2hc6VJeC6X9GN1rxRVAYpU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>

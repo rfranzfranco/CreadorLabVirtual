@@ -4,12 +4,20 @@ build_property.EnableSingleFileAnalyzer =
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = CreadorLabVirtual
 build_property.RootNamespace = CreadorLabVirtual
@@ -26,6 +34,10 @@ build_property.EnableCodeStyleSeverity =
 
 [D:/SEM 1-2025/ING DE SW II/PROYECTO SW/CreadorLabVirtual/CreadorLabVirtual/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SEM 1-2025/ING DE SW II/PROYECTO SW/CreadorLabVirtual/CreadorLabVirtual/Layout/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEVtcHR5TGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/SEM 1-2025/ING DE SW II/PROYECTO SW/CreadorLabVirtual/CreadorLabVirtual/Pages/Counter.razor]
@@ -51,3 +63,7 @@ build_metadata.AdditionalFiles.CssScope = b-9bhofv75n5
 [D:/SEM 1-2025/ING DE SW II/PROYECTO SW/CreadorLabVirtual/CreadorLabVirtual/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-znf9bbwm73
+
+[D:/SEM 1-2025/ING DE SW II/PROYECTO SW/CreadorLabVirtual/CreadorLabVirtual/Pages/EditorTexto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdG9yVGV4dG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jp9arwvfru

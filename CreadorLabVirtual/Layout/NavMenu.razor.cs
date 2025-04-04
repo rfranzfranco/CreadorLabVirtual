@@ -33,5 +33,9 @@ namespace CreadorLabVirtual.Layout
         {
             var resultado = await JS.InvokeAsync<dynamic>("mostrarDialogoGuardar", "miArchivo.fni");
         }
+        private async Task GuardarComo()
+        {
+            var resultado = await JS.InvokeAsync<dynamic>("mostrarDialogoGuardar", "");
+        }
     }
 }
