@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "wxbPRZ92",
+  "version": "ViXI4u+P",
   "assets": [
     {
       "hash": "sha256-myFIslG/4NzxESI7KXgvvnl1sswC09rE1hHfQxoRpYk=",
@@ -146,11 +146,11 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-xF7q8SIs+kr4bW/6IAFdZlvQu2+Gr1Ovc8Xocl2numA=",
+      "hash": "sha256-DNCYagKHF2IrUP7eBRVawkOFk6VZAMjaXBlWf/DtaLM=",
       "url": "_framework/CreadorLabVirtual.pdb"
     },
     {
-      "hash": "sha256-jjladPZfM+5ferEdGwpWkMAQfysok55T1ZWGyHxBAw8=",
+      "hash": "sha256-KeCQwYyUHBjLmQEYd12+1GLfvPVlpSxfoKt/Qd+CV+A=",
       "url": "_framework/CreadorLabVirtual.wasm"
     },
     {
@@ -922,7 +922,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-Rjd4pN/4fhg3GTSfJbXL2Sc5a+SWQga4cT01FDbRy5U=",
+      "hash": "sha256-trByhCI597d+jGbVLwnXx55wxWlLHyNciEI4w0c7EcQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -1106,11 +1106,11 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-I/w3mC8FrK4pVE8DtGJyP2hc6VJeC6X9GN1rxRVAYpU=",
+      "hash": "sha256-zznWhoQOexOOeG/34fyTyyoO1Se6HRuWxbhGmQ4IWC4=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-Rn3y86Z4wTOxyqLm9hzh5FM3USvLzKaVq31SbhXftCc=",
+      "hash": "sha256-1VSWALOBYqpNmXHliDkJkZV49RoBDv+ECesAhLHluHI=",
       "url": "js/FileInterop.js"
     },
     {

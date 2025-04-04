@@ -1185,6 +1185,6 @@ D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\D
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\wxuulo65of-ehmv21sa71.gz
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\f79fp7x4mu-g0tdy5e2jj.gz
 D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\scopedcss\Pages\EditorTexto.razor.rz.scp.css
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\qjwvqtil4u-esdr7xflzl.gz
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\b2ilsj1re8-8xxid6aaaf.gz
-D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\xk23k7vksl-2haxov12o7.gz
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\qjwvqtil4u-noitg7p44g.gz
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\b2ilsj1re8-keg8bcnn70.gz
+D:\SEM 1-2025\ING DE SW II\PROYECTO SW\CreadorLabVirtual\CreadorLabVirtual\obj\Debug\net8.0\compressed\xk23k7vksl-ipaqsbxhqs.gz
