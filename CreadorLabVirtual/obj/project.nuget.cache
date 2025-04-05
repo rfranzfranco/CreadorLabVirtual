@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ILzb17BzGv0=",
+  "dgSpecHash": "AYUScPROzYo=",
   "success": true,
   "projectFilePath": "D:\\SEM 1-2025\\ING DE SW II\\PROYECTO SW\\CreadorLabVirtual\\CreadorLabVirtual\\CreadorLabVirtual.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sdiaz\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\sdiaz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.14\\microsoft.aspnetcore.authorization.8.0.14.nupkg.sha512",
     "C:\\Users\\sdiaz\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.14\\microsoft.aspnetcore.components.8.0.14.nupkg.sha512",
     "C:\\Users\\sdiaz\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.14\\microsoft.aspnetcore.components.analyzers.8.0.14.nupkg.sha512",
